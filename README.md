@@ -31,4 +31,7 @@ We can add, delete and modify and view the details of the doctors, nurses, and w
 AUTHORS
 
 https://github.com/Sandrarv2002
+
 https://github.com/Augastina02
+
+https://github.com/Lakshmi086
